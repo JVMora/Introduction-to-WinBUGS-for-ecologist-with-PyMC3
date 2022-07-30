@@ -1,1 +1,1 @@
-# Introduction-to-WinBUGS-for-ecologist-with-PyMC3
+# Introduction-to-WinBUGS-for-ecologists-with-PyMC3
